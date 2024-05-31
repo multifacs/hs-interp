@@ -23,6 +23,7 @@ dependencies:
 - base >= 4.7 && < 5
 - parsec
 - pretty
+- haskeline
 
 ghc-options:
 - -Wall
